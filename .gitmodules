@@ -1,3 +1,7 @@
 [submodule "Diabetes_Prediction"]
 	path = Diabetes_Prediction
 	url = https://github.com/Arshadk786/Diabetes_Prediction
+
+[submodule "Insurance_Prediciton"]
+	path = Insurance_Prediciton
+	url = https://github.com/Arshadk786/Insurance_Prediciton
